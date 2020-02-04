@@ -1,72 +1,65 @@
-Authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
++++
+title = "Advancing neuropsychiatric genetics training and collaboration in Africa"
+date = 2018-07-01T00:00:00
+draft = false
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# Authors. Comma separated list
+authors = ["C Van der Merwe", "MK Mwesiga", "NW McGregor", "...", "M Hoogenhout"]
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+# Publication name and optional abbreviated version.
+publication = "In *Lancet Global Health*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Abstract and optional shortened version.
+abstract-short = "To date, advancements in neuropsychiatric genetics research in sub-Saharan Africa have been limited by low capacity. The Global Initiative for Neuropsychiatric Genetics Education in Research [GINGER](https://www.broadinstitute.org/stanley-center-psychiatric-research/neurogap/global-initiative-neuropsychiatric-genetics-education-research-ginger) programme seeks to address these limitations."
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract = "To date, advancements in neuropsychiatric genetics research in sub-Saharan Africa have been limited by low capacity—funding availability, appropriate infrastructure, and qualified researchers are under-represented in African institutions compared with counterparts in high-income countries (HICs). To improve representation of African institutions in neuropsychiatric genetics research, researchers and funding bodies should prioritise projects involving collaborations between institutions in HICs and low- and middle-income countries (LMICs) that contain a capacity-building component. The Global Initiative for Neuropsychiatric Genetics Education in Research (GINGER) programme seeks to address these limitations. GINGER is a collaboration between the Stanley Center for Psychiatric Research at the Broad Institute of Massachusetts Institute of Technology and the Harvard T H Chan School of Public Health, and several academic institutions in sub-Saharan Africa (University of Addis Ababa, Ethiopia; University of Cape Town and Stellenbosch University, South Africa; Moi University and the Kenya Medical Research Institute, Kenya; and Makerere University, Uganda). Comprising 17 investigators from these countries, GINGER aims to enhance the capacity of neuropsychiatric genetics research in Africa by training early-career researchers in genetics analysis, psychiatric phenotyping, epidemiology, bioinformatics, biostatistics, ethics, and manuscript and grant writing."
 
-tags:
-- Source Themes
-featured: true
+# Is this a selected publication? (true/false)
+selected = true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = []
+
+# Tags (optional).
+tags = ["genetics", "education", "Africa", "research", "psychiatry", "epidemiology", "biostatistics", "GINGER"]
+
+# Links (optional).
+url_pdf = "https://www.thelancet.com/action/showPdf?pii=S2214-109X%2818%2930042-1"
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Article", url = "https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30042-1/fulltext"}, {name = "GINGER", url = "https://www.broadinstitute.org/stanley-center-psychiatric-research/neurogap/global-initiative-neuropsychiatric-genetics-education-research-ginger"}]
+
+# Digital Object Identifier (DOI)
+doi = "https://doi.org/10.1016/S2214-109X(18)30042-1"
+
+# Does this page contain LaTeX math? (true/false)
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**Technology photo created by kjpargeter**]('https://www.freepik.com/free-photos-vectors/technology')"
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
++++

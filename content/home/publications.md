@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Featured Publications"
 subtitle = ""
 
 [content]
@@ -30,44 +30,13 @@ subtitle = ""
     publication_type = ""
     exclude_featured = false
 
-
-  [[item]]
-    organization = "Coursera"
-    organization_url = "https://www.coursera.org"
-    title = "Neural Networks and Deep Learning"
-    url = ""
-    certificate_url = "https://www.coursera.org"
-    date_start = "2018-10-01"
-    date_end = ""
-    description = ""
-
-  [[item]]
-    organization = "Coursera"
-    organization_url = "https://www.coursera.org"
-    title = "Neural Networks and Deep Learning"
-    url = ""
-    certificate_url = "https://www.coursera.org"
-    date_start = "2018-10-01"
-    date_end = ""
-    description = ""
-
-  [[item]]
-    organization = "Coursera"
-    organization_url = "https://www.coursera.org"
-    title = "Neural Networks and Deep Learning"
-    url = ""
-    certificate_url = "https://www.coursera.org"
-    date_start = "2018-10-01"
-    date_end = ""
-    description = ""
-
 [design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -96,7 +65,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

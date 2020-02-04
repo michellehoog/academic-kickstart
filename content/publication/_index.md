@@ -11,12 +11,12 @@ view: 4
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "hero-academic.jpg"
+  image: ""
 ---
 
 
 
-## Neurodevelopment
+<!-- ## Neurodevelopment
 * **Hoogenhout, M.**, de Menil, V., Kipkemoi, P., ... Newton, C.R., Donald, K.A., & Robinson, E. (2019). [The NeuroDev study: Phenotypic and genetic characterization of neurodevelopmental disorders in Kenya and South Africa](https://www.ncbi.nlm.nih.gov/pubmed/30605655). Neuron, 101, 15 – 19.
 * Donald, K. A., **Hoogenhout, M.**, Du Plooy, C.P., Wedderburn, C.J., Nhapi, R.T., Barnett, W., Hoffman, N., Malcolm-Smith, S., Zar, H.J., & Stein, D.J. (2018). [Cohort profile: The Drakenstein Child Health Study (DCHS)](https://www.ncbi.nlm.nih.gov/pubmed/29942867). BMJ Paediatrics Open, 2, e000282. doi:10.1136/bmjpo-2018-000282
 * Hamilton, K., **Hoogenhout, M.**, & Malcolm-Smith, S. (2016). Neurocognitive considerations when assessing Theory of Mind in Autism Spectrum Disorder. Journal of Child and Adolescent Mental Health, 28, 233-241, doi: 10.2989/17280583.2016.126814.
@@ -38,4 +38,4 @@ header:
 * Davids, E. L., Tucker, L.A., Wambua, G.N, … **Hoogenhout, M.**, … Leclezio, L. (2018). Mapping Child and Adolescent Mental Health (CAMH) in Africa: Perspective of Emerging Mental Health Researchers and Clinicians.
 
 ## Mindfulness
-* Whitesman, S., **Hoogenhout, M.**, Kantor, L., Gevers, A., & Leinberger, K. J. (2018). Examining the impact of a Mindfulness-Based Stress Reduction intervention on the health of urban South Africans. African Journal of Primary Health Care & Family Medicine, 10, a1614.
+* Whitesman, S., **Hoogenhout, M.**, Kantor, L., Gevers, A., & Leinberger, K. J. (2018). Examining the impact of a Mindfulness-Based Stress Reduction intervention on the health of urban South Africans. African Journal of Primary Health Care & Family Medicine, 10, a1614. -->

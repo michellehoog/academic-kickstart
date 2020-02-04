@@ -1,73 +1,66 @@
-uthors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
-doi: ""
++++
+title = "Theory of mind predicts severity level in autism"
+date = 2013-07-01T00:00:00
+draft = false
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["M Hoogenhout", "S Malcolm-Smith"]
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Manuscript
+# 4 = Report
+# 5 = Book
+# 6 = Book section
+publication_types = ["2"]
 
-# Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+# Publication name and optional abbreviated version.
+publication = "In *Autism*"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+# Abstract and optional shortened version.
+abstract = "We investigated whether theory of mind skills can indicate autism spectrum disorder severity. In all, 62 children with autism spectrum disorder completed a developmentally sensitive theory of mind battery. We used intelligence quotient, Diagnostic and Statistical Manual of Mental Disorders (4th ed.) diagnosis and level of support needed as indicators of severity level. Using hierarchical cluster analysis, we found three distinct clusters of theory of mind ability: early-developing theory of mind (Cluster 1), false-belief reasoning (Cluster 2) and sophisticated theory of mind understanding (Cluster 3). The clusters corresponded to severe, moderate and mild autism spectrum disorder. As an indicator of level of support needed, cluster grouping predicted the type of school children attended. All Cluster 1 children attended autism-specific schools; Cluster 2 was divided between autism-specific and special needs schools and nearly all Cluster 3 children attended general special needs and mainstream schools. Assessing theory of mind skills can reliably discriminate severity levels within autism spectrum disorder."
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract_short = "By using cluster analysis on theory of mind skills, we can reliably discriminate severity levels within autism spectrum disorder. Knowing a child's severity level my help with school placement and tailoring of interventions."
 
-tags:
-- Source Themes
-featured: true
+# Is this a selected publication? (true/false)
+selected = true
 
-links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
+# Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#   E.g. `projects = ["deep-learning"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects = ["internal-project"]
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
----
+# Tags (optional).
+#   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
+tags = ["autism", "severity", "diagnosis", "cluster analysis", "theory of mind"]
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# Links (optional).
+url_pdf = "https://www.researchgate.net/profile/Michelle_Hoogenhout/publication/305887988_Theory_of_mind_predicts_severity_level_in_autism/links/59caa5b90f7e9bbfdc36b04a/Theory-of-mind-predicts-severity-level-in-autism.pdf"
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+url_custom = [{name = "Custom Link", url = "https://journals.sagepub.com/doi/abs/10.1177/1362361316636758"}]
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Digital Object Identifier (DOI)
+doi = "https://doi.org/10.1177/1362361316636758"
 
+# Does this page contain LaTeX math? (true/false)
+math = false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+[image]
+  # Caption (optional)
+  caption = "Image credit: [**Education vector created by studiogstock**]('https://www.freepik.com/free-photos-vectors/education')"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = ""
+
++++
