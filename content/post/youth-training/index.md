@@ -17,10 +17,10 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
-  placement: 2
-  caption: 'Image credit: [**Deep Learning Indaba**](https://www.youtube.com/watch?v=3--9-gbQoX0)'
+  placement: 3
+  caption: 'Umuzi data science and web development students'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -30,6 +30,6 @@ image:
 projects: []
 ---
 
-How to design learnerships to get more young talent into the Data Science industry through non-traditional routes. Also, why should companies have learnerships?
+How should you design learnerships to get more young talent into the Data Science industry? What are the benefits and challenges of acquiring talent through non-traditional routes? Why should companies have learnerships in the first place?
 
-Watch the full talk [here](https://www.youtube.com/watch?v=3--9-gbQoX0).
+To find out, watch the full [talk](https://www.youtube.com/watch?v=3--9-gbQoX0) or browse the [slides](https://docs.google.com/presentation/d/1qCF7Ha8Maed85yhUJCxTtJ48cfF_B6L_u3bVWmuYNnk/edit?usp=sharing).

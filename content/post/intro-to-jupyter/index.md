@@ -12,9 +12,8 @@ date: 2019-02-13
 diagram: false
 image:
   placement: 3
-  caption: 'Image credit: [**John Moeses Bauan**](featured.jpg)'
+  caption: 'Umuzi data science and web development students. Image credit: [**Michelle Hoogenhout**](featured.jpg)'
 ---
 
-### [An Introduction to Jupyter Notebooks](https://github.com/midnight22/gpug-jupyter-intro)
 
-A quick tour through Jupyter Notebooks, including how to make graphs, presentations and reports.
+A [quick tour](https://github.com/midnight22/gpug-jupyter-intro) through Jupyter Notebooks, including how to make graphs, presentations and reports.

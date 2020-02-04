@@ -13,32 +13,51 @@ subtitle = ""
 date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Co-Founder"
+  company = "Ingane Health"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Cape Town, South Africa"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """ Designed an app to enable community health workers to increase detection of developmental disabilities and delays by 30% and increase child referrals to local support services.
+
+  Responsibilities include:
+
+  * Data storage, infrastructure and analysis
+  * Detection algorithms
+  * Fund-raising
+"""
+
+[[experience]]
+  title = "Contract Data Scientist"
+  company = "OpenUp"
+  company_url = "www.openup.org.za"
+  location = "Cape Town, South Africa"
+  date_start = "2019-10-01"
+  date_end = ""
+  description = """ Used natural language processing and deep learning techniques to predict business transformation in South Africa.  
+  """
+
+  [[experience]]
+    title = "Head: Data Science / Tech Department Lead"
+    company = "Umuzi Academy"
+    company_url = "www.umuzi.org"
+    location = "Johannesburg, South Africa"
+    date_start = "2018-06-01"
+    date_end = "2019-07-15"
+    description = """ Created the data science department, graduating 14 students within the span of 1 year with > 90% employment rate, and highest starting salary within the academy. Implemented candidate assessment data pipeline to decrease screening time by 80% and increased graduate starting salary rate by 100%. Managed 10 teachers as student enrollment grew by a factor of 4. Advised Uber and Allan Gill Gray Philanthropy on employee upskilling program to help solve youth employment deficit in South Africa.
+    """
+
+    [[experience]]
+      title = "Contract Lecturer"
+      company = "University of Cape Town"
+      company_url = "www.uct.ac.za"
+      location = "Cape Town, South Africa"
+      date_start = "2011-08-01"
+      date_end = "2018-07-01"
+      description = """ Taught multivariate statistics & machine learning (regression, classification, boosting, multilevel models, cross-validation), psychometrics, cognition and neuroscience (visual perception).
+      """
 
 +++
