@@ -39,7 +39,7 @@ subtitle = ""
   [[feature]]
     icon = "brain"
     icon_pack = "fas"
-    name = "cognitive neuroscience"
+    name = "Cognitive Neuroscience"
 
 
 +++

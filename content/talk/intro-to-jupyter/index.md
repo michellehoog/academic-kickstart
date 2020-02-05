@@ -5,14 +5,14 @@ summary: A quick tour through Jupyter Notebooks, including how to make graphs, p
 authors:
 - admin
 tags:
-- jupyter notebook
+- jupyter
 - RISE
 - R
 date: 2019-02-13
 diagram: false
 image:
   placement: 3
-  caption: 'Umuzi data science and web development students. Image credit: [**Michelle Hoogenhout**](featured.jpg)'
+  caption: 'Jupyter logo'
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 'Growing Young Tech Talent'
-subtitle: 'Deep Learning IndabaX, 2019'
+subtitle: '[Deep Learning IndabaX, 2019](https://indabax.co.za/)'
 summary: How to design learnerships to get more young talent into the Data Science industry through non-traditional routes.
 authors:
 - admin

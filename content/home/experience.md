@@ -17,11 +17,11 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Co-Founder"
   company = "Ingane Health"
-  company_url = ""
+  company_url = "https://docs.google.com/presentation/d/1pT0VslYkOFv86HjJgAE7AkIB528pdeC5crwdHX7tcPI/edit?usp=sharing"
   location = "Cape Town, South Africa"
   date_start = "2019-10-01"
   date_end = ""
-  description = """ Designed an app to enable community health workers to increase detection of developmental disabilities and delays by 30% and increase child referrals to local support services.
+  description = """Designed an app to enable community health workers to increase detection of developmental disabilities and delays by 30% and increase child referrals to local support services.
 
   Responsibilities include:
 
