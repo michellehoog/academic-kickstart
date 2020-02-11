@@ -34,7 +34,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["ginger"]
+projects = ["autism-genetics"]
 
 # Tags (optional).
 tags = ["genetics", "education", "Africa", "research", "psychiatry", "epidemiology", "biostatistics", "GINGER"]
@@ -56,7 +56,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Technology photo created by kjpargeter**]('https://www.freepik.com/free-photos-vectors/technology')"
+  caption = "Closing day of the GINGER London workshop"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

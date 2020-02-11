@@ -21,9 +21,7 @@ publication_types = ["2"]
 publication = "In *BMJ Paediatrics Open*"
 
 # Abstract and optional shortened version.
-abstract-short = "There is growing awareness that psychosocial risk and resilience factors in early life play a key role in influencing later health. Most work has been done in high-income settings, rather than low-income and middle-income countries (LMICs), where the majority of the global childhood population resides. The few studies with well-defined cohorts in LMICs have employed various methods and measures, making comparisons across studies challenging. This presentation describes the methodology for infant and child developmental measures used in the Drakenstein Child Health Study (DCHS), a multidisciplinary longitudinal birth cohort study in South Africa."
-
-abstract = "INTRODUCTION: There is growing awareness that psychosocial risk and resilience factors in early life play a key role in influencing later health. Most work has been done in high-income settings, rather than low-income and middle-income countries (LMICs), where the majority of the global childhood population resides. The few studies with well-defined cohorts in LMICs have employed various methods and measures, making comparisons across studies challenging. This presentation describes the methodology for infant and child developmental measures used in the Drakenstein Child Health Study (DCHS), a multidisciplinary longitudinal birth cohort study in South Africa. METHODS AND ANALYSIS: We outline a multilevel approach combining a range of measures including parental reports, behaviour observations, clinician-administered scales and brain imaging. Using this approach, we aim at a longitudinal perspective of developmental, cognitive, socioemotional and neurophysiological outcomes in a birth cohort of children in an LMIC. ETHICS AND DISSEMINATION: The study was approved by the faculty of Health Sciences, Human Research Ethics Committee, University of Cape Town (401/2009), Stellenbosch University (N12/02/0002) and the Western Cape Provincial Health Research committee (2011RP45). DISCUSSION: Children in the DCHS develop in a context typical of many communities in South Africa and other LMICs. There is a critical need for research in LMICs to elucidate underlying factors that inform risk for, and resilience to, poor developmental outcomes in infants born into high-risk communities. Such work may inform effective intervention strategies appropriate to this context."
+abstract= "There is growing awareness that psychosocial risk and resilience factors in early life play a key role in influencing later health. Most work has been done in high-income settings, rather than low-income and middle-income countries (LMICs), where the majority of the global childhood population resides. The few studies with well-defined cohorts in LMICs have employed various methods and measures, making comparisons across studies challenging. This presentation describes the methodology for infant and child developmental measures used in the Drakenstein Child Health Study (DCHS), a multidisciplinary longitudinal birth cohort study in South Africa."
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -56,7 +54,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Love photo created by freepik**]('https://www.freepik.com/free-photos-vectors/love')"
+  caption = "Image credit: Background photo by freepik"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

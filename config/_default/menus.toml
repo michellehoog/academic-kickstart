@@ -55,15 +55,10 @@
   url = "#experience"
   weight = 20
 
-# [[main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 30
-
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 90
+  name = "Posts"
+  url = "#posts"
+  weight = 60
 
 [[main]]
   name = "Talks"
@@ -71,9 +66,14 @@
   weight = 70
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 60
+  name = "Projects"
+  url = "#projects"
+  weight = 80
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 90
 
 [[main]]
   name = "Contact"
