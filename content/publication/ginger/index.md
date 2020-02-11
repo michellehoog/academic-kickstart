@@ -34,7 +34,7 @@ selected = true
 #   E.g. `projects = ["deep-learning"]` references
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["ginger"]
 
 # Tags (optional).
 tags = ["genetics", "education", "Africa", "research", "psychiatry", "epidemiology", "biostatistics", "GINGER"]
