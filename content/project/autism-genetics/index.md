@@ -1,5 +1,5 @@
 ---
-title: Genetics of Neurodevelopmental Disorders in Africa
+title: Genetics of Developmental Disorders in Africa
 summary: The NeuroDEV project focuses on the genetic risk for neurodevelopmental disorders such as autism in African samples.
 tags:
 - Genetics
