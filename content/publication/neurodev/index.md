@@ -1,5 +1,5 @@
 +++
-title = "The NeuroDev Study: Phenotypic and Genetic Characterization of Neurodevelopmental Disorders in Kenya and South Africa"
+title = "The NeuroDev Study: Phenotypic and genetic characterization of neurodevelopmental disorders in Kenya and South Africa"
 date = 2019-01-02T00:00:00
 draft = false
 
