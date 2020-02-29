@@ -33,7 +33,7 @@ image:
 projects: []
 ---
 
-*[This article was first published on Medium](https://medium.com/@Umuzi/what-were-learning-about-selecting-talent-for-the-future-f8f9f5a42556).*
+*This article was first published on [Medium](https://medium.com/@Umuzi/what-were-learning-about-selecting-talent-for-the-future-f8f9f5a42556).*
 
 How do you hire the best talent? In an age when experienced tech talent is almost as rare as the mythical unicorns they wish to work for, devs and data scientists find themselves inundated with offers from competing employers. Unless you’re Apple or Google, most companies have to take what they can get.
 
