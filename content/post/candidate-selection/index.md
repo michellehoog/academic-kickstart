@@ -19,9 +19,6 @@ featured: true
 draft: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
-# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 3
   caption: 'Image courtesy of [Umuzi Stock](https://www.umuzicreates.com/stock-1)'
@@ -36,7 +33,7 @@ image:
 projects: []
 ---
 
-*[This article was first published on Medium](https://medium.com/@Umuzi/what-were-learning-about-selecting-talent-for-the-future-f8f9f5a42556). Small modifications to the content have been made for readability.*
+*[This article was first published on Medium](https://medium.com/@Umuzi/what-were-learning-about-selecting-talent-for-the-future-f8f9f5a42556).*
 
 How do you hire the best talent? In an age when experienced tech talent is almost as rare as the mythical unicorns they wish to work for, devs and data scientists find themselves inundated with offers from competing employers. Unless you’re Apple or Google, most companies have to take what they can get.
 
@@ -52,15 +49,18 @@ In the context of South Africa, with millions of un- and under-employed young pe
 
 
 ##What you see is not necessarily what you get
+
 School marks and University transcripts have lost their standing as a measure of future success or failure. Leading companies like [Google](https://qz.com/180247/why-google-doesnt-care-about-hiring-top-college-graduates/) have done away with asking job applicants for a copy of their academic transcript, and hiring exclusively from the top schools. They believe standardized tests are not a strong indication of how well an employee will be able to apply their knowledge and skills to the challenges they face at work. Instead, they value attributes such as intellectual humility, demonstrated by an applicant’s ability and willingness to learn from others. Moreover, practical, competency-based learning that favors skill mastery, knowledge application, and self-driven learning, better develops the complex mix of knowledge, skills and dispositions that are needed for young people to thrive in the future working world.
 
 In dynamic industries, such as tech, hiring decisions are increasingly based on demonstrated skills (coding tests, or technical reviews of previous work) rather than grades achieved. Organizations are leaning more heavily on face-to-face recruitment opportunities that allow candidates to show what they know and how they can apply their knowledge and skills to real-life work situations. Boot Camp challenges, Hackathons, and behavior interviews are proving to be better signals of culture fit and knowledge application than brain teaser interview style questions. Large international organizations like [PayPal and Foursquare](https://dzone.com/articles/hackathon-projects-by-big-companies-foursqueare-pa) host Hackathons in multiple cities globally, where hundreds of the most talented software developers from around the world work collaboratively to solve local challenges faced by these organizations. Not only are Hackathons a lucrative recruitment opportunity, they also act as a breeding ground for innovative ideas, professional networking, and professional development opportunities for candidates.
 
 ## How Umuzi is innovating on these tech recruitment trends
+
 Like leading tech companies, we don’t believe in school marks. Umuzi incorporates very practical tests of candidates’ competencies into our selection process. While in-person competency assessments are effective, they are a costly undertaking if they rely on the management team sifting through high-potential talent. Thus we’ve developed ways to automate these tests into the early online phases of our application process, to reduce the burden on management to sift through test results, and conduct in-person assessments with the wrong candidates. Mesuli Lotsile, our recruitment manager shares some examples of how we have achieved this.
 
-"""In the past, we’ve invested a lot of time into manually reviewing and identifying high potential candidates. To solve this time-suck, we have automated competency-based challenges throughout our recruitment process. These tests have allowed us to better utilize our time by signaling who our strongest applicants are early on in the recruitment funnel. Our Web Development application is a good example of this, as it assesses an applicant’s aptitude for Web Development without considering any prior experience in the field. The test instead looks at indicators of a candidate’s behavioral and functional competencies focusing on literacy, numeracy, sequencing, problem-solving, grit, agreeability and professionalism."""
-Coders have personalities too
+> In the past, we’ve invested a lot of time into manually reviewing and identifying high potential candidates. To solve this time-suck, we have automated competency-based challenges throughout our recruitment process. These tests have allowed us to better utilize our time by signaling who our strongest applicants are early on in the recruitment funnel. Our Web Development application is a good example of this, as it assesses an applicant’s aptitude for Web Development without considering any prior experience in the field. The test instead looks at indicators of a candidate’s behavioral and functional competencies focusing on literacy, numeracy, sequencing, problem-solving, grit, agreeability and professionalism.
+
+### Coders have personalities too
 
 Dr Michelle Hoogenhout, our head of Data Science at Umuzi and PhD Psychology graduate from the University of Cape Town, has undertaken a research opportunity at Umuzi to create a reliable group of measures and metrics to identify high-potential candidates as early as possible in our recruitment process. Dr Hoogenhout and her team of Data Scientists at Umuzi are currently collecting data and tracking results on a combination of aptitude tests, personality tests and behavioral observations to see which of these will prove to be the most reliable measures of high-potential candidates.
 
@@ -72,7 +72,7 @@ Although some personality tests rely heavily on a candidate’s level of self re
 
 The series of tests and measures we use at Umuzi are based on previous research and retrospective feedback from previous rounds of recruitment. Dr Hoogenhout and her team are working to test whether these measures are true signals of high potential over time.
 
-``"Some of the results we are looking at include, but are not limited to, tracking what positions our candidates are hired into in the job market, their financial earning potential, whether they have achieved any professional rewards and recognition for their work, and their ability to hold down a job."``
+> Some of the results we are looking at include, but are not limited to, tracking what positions our candidates are hired into in the job market, their financial earning potential, whether they have achieved any professional rewards and recognition for their work, and their ability to hold down a job.
 
 Dr Hoogenhout and her team will continue collecting data and tracking results over the coming months to refine and continuously test which of these measures are strong predictors of early career success.
 What’s already clear is a data-driven approach based on objective aptitude and personality tests, results in better hiring decisions.
