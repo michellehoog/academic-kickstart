@@ -48,7 +48,7 @@ In the context of South Africa, with millions of un- and under-employed young pe
 [Umuzi](https://www.umuzi.org/), an organization training high-potential digital talent in Johannesburg, has over 13,000 young people in its application funnel, from whom we select around 100–200 of the best candidates every year. More than 80% of our selected candidates go on to successful employment in high-value tech, creative, and strategy roles at top local and international companies. Below we explore a few global tech recruitment trends, before taking a look under the hood of Umuzi’s recruitment process, and chatting to the Umuzi team conducting ongoing research into the most valuable predictors of success.
 
 
-##What you see is not necessarily what you get
+## What you see is not necessarily what you get
 
 School marks and University transcripts have lost their standing as a measure of future success or failure. Leading companies like [Google](https://qz.com/180247/why-google-doesnt-care-about-hiring-top-college-graduates/) have done away with asking job applicants for a copy of their academic transcript, and hiring exclusively from the top schools. They believe standardized tests are not a strong indication of how well an employee will be able to apply their knowledge and skills to the challenges they face at work. Instead, they value attributes such as intellectual humility, demonstrated by an applicant’s ability and willingness to learn from others. Moreover, practical, competency-based learning that favors skill mastery, knowledge application, and self-driven learning, better develops the complex mix of knowledge, skills and dispositions that are needed for young people to thrive in the future working world.
 
