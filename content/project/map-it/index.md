@@ -1,9 +1,9 @@
 ---
-title: MAP IT
-summary: SCALE SD Innovation Weekend 2020: Winner, Most Implementable Solution
+title: MAP_IT
+summary: "SCALE SD Innovation Weekend 2020: Winner, Most Implementable Solution"
 tags:
 - Machine Learning
-- Arts & Culture
+- Arts
 - Geographic Information System
 date: "2020-03-01T00:00:00Z"
 
