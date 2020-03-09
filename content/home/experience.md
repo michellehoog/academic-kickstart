@@ -27,7 +27,8 @@ date_format = "Jan 2006"
 
   * Data storage, infrastructure and analysis
   * Detection algorithms
-  * Fund-raising
+  * Fundraising, partnership transformation
+  * Content creation
 """
 
 [[experience]]
