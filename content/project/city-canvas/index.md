@@ -25,7 +25,7 @@ image:
 ### About Us
 City Canvas is a centralized platform that celebrates local culture of the city by offering an immersive cultural experience. Discover and share cultural landmarks, artwork, events and more on the app. Experience culture online or go for a cultural walk and stop for coffee along the way. Get rewarded for your cultural curiosity and knowledge of the local art scene! And if you are an artist or business, you get the chance to share your world for others to experience your wares.
 
-[![North Park Mural Walk](http://img.youtube.com/vi/RX9rRuYnVmk/0.jpg)](https://youtu.be/RX9rRuYnVmk "North Park Mural Walk")
+[![North Park Mural Walk](https://img.youtube.com/vi/RX9rRuYnVmk/0.jpg)](https://youtu.be/RX9rRuYnVmk "North Park Mural Walk")
 
 ### Key Features
 Experience San Diego's art scene differently! City Canvas highlights local cultural places and events by offering a holistic immersive experience and helping people overcome their barriers to engage with the arts and culture of the city through gamification.   
