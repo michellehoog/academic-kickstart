@@ -54,7 +54,7 @@ math = false
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Technology photo created by kjpargeter**]('https://www.freepik.com/free-photos-vectors/technology')"
+  caption = "Image credit: [**Technology photo created by kjpargeter**](https://www.freepik.com/free-photo/3d-medical-background-with-dna-strands_1161641.htm#page=1&query=gene%20kjpargeter&position=3)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

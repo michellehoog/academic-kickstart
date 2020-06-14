@@ -57,7 +57,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Education vector created by studiogstock**]('https://www.freepik.com/free-photos-vectors/education')"
+  caption = "Image credit: [**Education vector created by studiogstock**](https://www.freepik.com/free-vector/girls-with-puzzles-inside-chat-bubbles-autism-day_5673790.htm#page=1&query=studiogstock%20education%20autism%20puzzle&position=3)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

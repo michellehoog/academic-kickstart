@@ -18,19 +18,19 @@ organizations:
   url: ""
 
 - name: Umuzi
-  url: "www.umuzi.org"
+  url: "https://www.umuzi.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Behavioral data scientist interested in social good.
 
 interests:
-- Natural Language Processing
 - Hierarchical Models
+- Natural Language Processing
 - Machine Learning
 - Data Visualization
 - Early Child Development
 - Behavior Prediction
-- Cognitive Neuropsychology
+- Cognitive Neuroscience
 - Mental Health
 - Tech Education
 
