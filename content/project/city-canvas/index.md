@@ -73,7 +73,7 @@ You can:
 - Access targeted marketing
 - Increase revenue
 
-Discover more on our [website](https://www.citycanvas.org) and subscribe to our [blog!](https://www.citycanvas.org/blog).
+Discover more on our [website](https://www.citycanvas.org) and subscribe to our [blog!](https://blogcitycanvas.org)
 
 ### SCALE SD Urban Innovation Program 2020
 City Canvas was first developed during the SCALE (Smart Cities Labs Accelerator + Environment) San Diego, US Ignite and Cox Communication [Urban Innovation Challenge 2020](https://www.scalesd.com/innovation-2020/). City Canvas walked away as the **winning team** at the end of the 3-month challenge.
