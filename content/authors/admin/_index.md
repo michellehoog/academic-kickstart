@@ -15,8 +15,7 @@ role: Founder / Data Scientist
 # Organizations/Affiliations
 organizations:
 - name: Ingane Health
-  url: ""
-
+  url: "https://www.inganehealth.org"
 - name: Umuzi
   url: "https://www.umuzi.org"
 
@@ -89,7 +88,7 @@ email: ""
 
 I am a behavioral data scientist interested in tech education, health care and youth employment.
 
-At Umuzi, a nonprofit organization training un(der)employed youth in digital careers, I founded and scaled the Data Science department, going from 3 to 30 students in the space of a year. Currently I am creating a health tech startup to help community health workers detect childhood disabilities and delays in low-income areas.
+At Umuzi, a nonprofit organization training un(der)employed youth in digital careers, I founded and scaled the Data Science department, going from 3 to 30 students in the space of a year. Currently I am creating a [health tech startup](https://www.inganehealth.org) to help community health workers detect childhood disabilities and delays in low-income areas.
 
 Previously, I did research on the physiology and detection of developmental disorders such as autism in African populations.
 

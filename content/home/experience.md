@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Co-Founder"
   company = "Ingane Health"
-  company_url = "https://docs.google.com/presentation/d/1pT0VslYkOFv86HjJgAE7AkIB528pdeC5crwdHX7tcPI/edit?usp=sharing"
+  company_url = "https://www.inganehealth.org"
   location = "Cape Town, South Africa"
   date_start = "2019-10-01"
   date_end = ""
