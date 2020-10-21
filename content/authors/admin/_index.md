@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Founder / Data Scientist
+role: Senior Data Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Galvanize
+  url: "https://www.galvanize.com"
 - name: Ingane Health
   url: "https://www.inganehealth.org"
-- name: Umuzi
-  url: "https://www.umuzi.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Behavioral data scientist interested in social good.
@@ -64,7 +64,7 @@ social:
   link: https://scholar.google.com/citations?user=idxlvo8AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/midnight22
+  link: https://github.com/michellehoog
 - icon: angellist
   icon_pack: fab
   link: https://angel.co/michelle-hoogenhout
