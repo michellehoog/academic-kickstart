@@ -19,7 +19,7 @@ date_format = "Jan 2006"
   company = "Galvanize"
   company_url = "https://www.galvanize.com"
   location = "San Francisco, CA"
-  date_start = "2019-09-30"
+  date_start = "2020-09-30"
   date_end = ""
   description = """ Lecturing on data science topics including:
 
@@ -46,16 +46,6 @@ date_format = "Jan 2006"
   * Fundraising, partnership transformation
   * Content creation
 """
-
-[[experience]]
-  title = "Contract Data Scientist"
-  company = "OpenUp"
-  company_url = "https://www.openup.org.za"
-  location = "Cape Town, South Africa"
-  date_start = "2019-10-01"
-  date_end = ""
-  description = """ Used natural language processing and deep learning techniques to predict business transformation in South Africa.  
-  """
 
   [[experience]]
     title = "Head: Data Science / Tech Department Lead"
