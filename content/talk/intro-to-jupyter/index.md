@@ -16,4 +16,4 @@ image:
 ---
 
 
-A [quick tour](https://github.com/midnight22/gpug-jupyter-intro) through Jupyter Notebooks, including how to make graphs, presentations and reports.
+A [quick tour](https://github.com/michellehoog/gpug-jupyter-intro) through Jupyter Notebooks, including how to make graphs, presentations and reports.
