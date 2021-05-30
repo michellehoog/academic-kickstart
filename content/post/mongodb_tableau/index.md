@@ -13,7 +13,7 @@ tags:
 
 date: "2021-05-20T00:00:00Z"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 image:
