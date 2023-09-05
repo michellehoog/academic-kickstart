@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "ML & Statistics"
 
 [[feature]]
     icon = "database"

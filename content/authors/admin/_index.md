@@ -10,25 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist
+role: Lead Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Galvanize
-  url: "https://www.galvanize.com"
-- name: Ingane Health
-  url: "https://www.inganehealth.org"
+- name: Hydrostasis
+  url: "https://www.hydrostasis.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Behavioral data scientist interested in social good.
+bio: Experienced data scientist interested in social good.
 
 interests:
-- Hierarchical Models
-- Natural Language Processing
 - Machine Learning
-- Data Visualization
+- Deep Learning
+- Statistics
+- Physiology and Wearable Technology
 - Early Child Development
-- Behavior Prediction
 - Cognitive Neuroscience
 - Mental Health
 - Tech Education
@@ -70,7 +67,7 @@ social:
   link: https://angel.co/michelle-hoogenhout
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/michelle-hoogenhout-ab5b193a/
+  link: https://www.linkedin.com/in/michelle-hoogenhout/
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -86,9 +83,9 @@ email: ""
 
 ---
 
-I am a behavioral data scientist interested in tech education, health care and youth employment.
-
-At Umuzi, a nonprofit organization training un(der)employed youth in digital careers, I founded and scaled the Data Science department, going from 3 to 30 students in the space of a year. Currently I am creating a [health tech startup](https://www.inganehealth.org) to help community health workers detect childhood disabilities and delays in low-income areas.
+I'm an experienced data scientist with a PhD in Psychology and expertise in machine learning, data analytics, experiment
+design, and complex datasets. In my past positions I have strategically built out data science departments to create
+business value and refine products.
 
 Previously, I did research on the physiology and detection of developmental disorders such as autism in African populations.
 

@@ -14,13 +14,24 @@ date_format = "Jan 2006"
 
 # Experiences.
 
+
+[[experience]]
+  title = "Lead Data Scientist"
+  company = "Hydrostasis Inc"
+  company_url = "https://www.hydrostasis.com"
+  location = "San Diego, CA (Remote)"
+  date_start = "2021-09-15"
+  date_end = ""
+  description = """ Led team of two, applying machine learning to predict human hydration using a wrist-worn optical sensor. Implemented signal processing, feature extraction and data labeling techniques to time-series data to improve signal-to-noise ratio. Designed and directed consumer and device research and communicated results to stakeholders. 
+
+"""
 [[experience]]
   title = "Senior Data Scientist / Instructor"
   company = "Galvanize"
   company_url = "https://www.galvanize.com"
   location = "San Francisco, CA"
   date_start = "2020-09-30"
-  date_end = ""
+  date_end = "2020-08-15"
   description = """ Lecturing on data science topics including:
 
   * Pandas, numpy, programming fundamentals
