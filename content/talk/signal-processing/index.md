@@ -21,7 +21,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 3
-  caption: 'Three dogs falsely recognized as a train, cow and person'
+  caption: 'Left: A signal containing 3 different frequency components (left). Right: A Fast Fourier Transform of the data clearly identifies the 3 frequencies making up the signal.'
   focal_point: ""
   preview_only: false
 
